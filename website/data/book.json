@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A language learning app enthusiast misreads a warning sign in Japanese, eats a deadly wild plant while foraging, and dies believing she's having an authentic cultural experience.",
     "long": ""
   },
   "death_type": "Mistranslation",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She thought she was fluent. She was fatally wrong."
 }
